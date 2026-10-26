@@ -3,7 +3,7 @@ body {
   font-family: "Arial";
 	text-align: justify;
 	background-color: #FFF1F1;
-	text-size: 15px
+	text-size: 15px;
 }
 
 /* ---------- MAIN HEADERS ---------- */
@@ -17,12 +17,14 @@ h1 {
 p {
 	font-family: "ZEN SERIF";
 	text-align: center;
+	text-size: 15px;
 }
 
 /* ---------- LISTS ---------- */
 ul {
 	font-family: "ZEN SERIF";
 	text-align: center;
+	text-size: 15px;
 }
 
 /* ---------- SUBHEADERS ---------- */
